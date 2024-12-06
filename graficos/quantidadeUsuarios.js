@@ -22,7 +22,7 @@ async function quantidadeUsuarios() {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Redes sociais com mais usuários',
+            text: 'Esportes mais praticados',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
