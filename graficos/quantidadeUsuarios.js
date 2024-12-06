@@ -42,7 +42,7 @@ async function quantidadeUsuarios() {
         yaxis: {
             tickfont: tickConfig,
             title: {
-                text: 'Bilhões de usuários ativos',
+                text: 'Bilhões de pessoas praticando',
                 font: {
                     color: getCSS('--secondary-color')
                 }
