@@ -1,7 +1,7 @@
 import { getCSS, tickConfig } from "./common.js"
 
 async function quantidadePraticando() {
-    const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/numero-usuarios.json'
+    const url = 'https://raw.githubusercontent.com/h-luan2006/CI-NCIA-DE-DADOS/refs/heads/main/base-de-dados/esportes-mais-praticados%20(6).json'
     const res = await fetch(url)
     const dados = await res.json()
     const nomeDosEsportes = Object.keys(dados)
