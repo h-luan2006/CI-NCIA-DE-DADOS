@@ -15,7 +15,7 @@ async function vizualizarInformacoesGlobais() {
     que aproximadamente <span>${pessoasPraticamEsportes}</span> bilhões praticam esportes,
     passam em média <span>${horas} horas</span> e <span>${minutos} minutos
     </span> praticando.<br>Isso significa que aproximadamente <span>${porcentagemConectada}%</span>
-    pessoas estão praticandos esportes em algum lugar. E também existem <span>${spectadores}</span> de spectadores. `
+    pessoas estão praticandos esportes em algum lugar. E também existem <span>${spectadores}</span> bilhões de spectadores. `
 
     const container = document.getElementById('graficos-container')
     container.appendChild(paragrafo);
