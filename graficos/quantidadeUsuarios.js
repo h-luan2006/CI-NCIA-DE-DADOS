@@ -33,7 +33,7 @@ async function quantidadePraticando() {
         xaxis: {
             tickfont: tickConfig,
             title: {
-                text: 'Nome das redes',
+                text: 'Nome dos Esportes',
                 font: {
                     color: getCSS('--secondary-color')
                 }
